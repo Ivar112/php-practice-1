@@ -1,4 +1,87 @@
+html {
+    font-size: 26px;
+    
+}
+
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Crimson Pro', serif;
 }
+
+.main{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.flags img {
+    height: 20px;
+    width: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit; 
+}
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+    font-size: 3rem; 
+}
+
+.dates {
+    font-family: 'Newsreader', serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1.6rem; 
+  
+}
+
+.description {
+    font-size: 0.8rem; 
+}
+
+.info {
+    font-size: 0.9rem;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    font-size: 2.3rem;
+    font-family: 'Playfair Display', serif;
+   
+}
+
+.section {
+    margin-bottom: 4rem;
+}
+
+
+
+nav{
+    display: inline;
+}
+
+
+ul{
+    display: inline;
+}
+
+ul li{
+    display: inline;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: ;
+}
+
+#logo {
+    padding-right: 580px;
+    font-size: 2rem;
+}
+

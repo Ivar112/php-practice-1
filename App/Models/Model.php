@@ -19,7 +19,7 @@ class Model
      * Constructor function
      * @param $table (string) name of the database table
      */
-    public function __construct($table, $limit = null)
+    public function __construct($table = null, $limit = null)
     {
         $this->table = $table;
 
